@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPhotoUploadProject/static/css/main.a4dda010.chunk.css",
+    "main.js": "/ReactPhotoUploadProject/static/js/main.d82b5a4b.chunk.js",
+    "main.js.map": "/ReactPhotoUploadProject/static/js/main.d82b5a4b.chunk.js.map",
+    "runtime-main.js": "/ReactPhotoUploadProject/static/js/runtime-main.9c46143a.js",
+    "runtime-main.js.map": "/ReactPhotoUploadProject/static/js/runtime-main.9c46143a.js.map",
+    "static/js/2.7f58fb14.chunk.js": "/ReactPhotoUploadProject/static/js/2.7f58fb14.chunk.js",
+    "static/js/2.7f58fb14.chunk.js.map": "/ReactPhotoUploadProject/static/js/2.7f58fb14.chunk.js.map",
+    "static/js/3.2c626646.chunk.js": "/ReactPhotoUploadProject/static/js/3.2c626646.chunk.js",
+    "static/js/3.2c626646.chunk.js.map": "/ReactPhotoUploadProject/static/js/3.2c626646.chunk.js.map",
+    "index.html": "/ReactPhotoUploadProject/index.html",
+    "static/css/main.a4dda010.chunk.css.map": "/ReactPhotoUploadProject/static/css/main.a4dda010.chunk.css.map",
+    "static/js/2.7f58fb14.chunk.js.LICENSE.txt": "/ReactPhotoUploadProject/static/js/2.7f58fb14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c46143a.js",
+    "static/js/2.7f58fb14.chunk.js",
+    "static/css/main.a4dda010.chunk.css",
+    "static/js/main.d82b5a4b.chunk.js"
+  ]
+}
